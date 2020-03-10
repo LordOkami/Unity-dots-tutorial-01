@@ -1,1 +1,7 @@
-"# Unity-dots-tutorial-01" 
+# Unity-dots-tutorial-01
+
+Testing ECS with sprites based on [CodeMonkey](https://unitycodemonkey.com/) video
+
+[![Getting Started with Unity DOTS Physics](https://img.youtube.com/vi/B3SFWm9gkL8/mqdefault.jpg)](https://youtu.be/ILfUuBLfzGI "Getting Started with Unity DOTS Physics")
+
+
